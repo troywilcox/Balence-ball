@@ -1,4 +1,3 @@
-Name: Troy Wilcox
 
 Goal: was to show understanding of a control system by using a centering ball.
 
